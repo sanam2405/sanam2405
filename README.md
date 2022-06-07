@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manas Pratim Biswas</h1>
 <h3 align="center">A sophomore, majoring in Information Technology at Jadavpur University</h3>
 
-- 🔭 I’m currently working on **Arduino and learning about Micro-controllers**
+- 🔭 I’m currently working on **Arduino and Micro-controllers**
 
 - 🌱 I’m currently learning **Internet of Things**
 
