@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Arduino and Micro-controllers**
 
-- 🌱 I’m currently learning **Internet of Things**
+- 🌱 I’m currently learning **Machine Learning and Data Science**
 
 - 💬 Ask me about **Problem Solving and DSA**
 
