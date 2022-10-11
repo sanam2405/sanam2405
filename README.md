@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manas Pratim Biswas</h1>
-<h3 align="center">A sophomore, majoring in Information Technology at Jadavpur University</h3>
+<h3 align="center">A junior, majoring in Information Technology at Jadavpur University</h3>
 
 - 🔭 I’m currently working on **Arduino and Micro-controllers**
 
