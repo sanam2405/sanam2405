@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manas Pratim Biswas</h1>
-<h3 align="center">A Junior, majoring in Information Technology at Jadavpur University</h3>
+<h3 align="center">A Senior, majoring in Information Technology at Jadavpur University</h3>
 
 ## 💫 About Me:
 🔭 I’m currently working on my Google Summer Of Code Project @CERN<br>
