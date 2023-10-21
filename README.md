@@ -5,7 +5,7 @@
 🔭 I’m currently working on my Google Summer Of Code Project @CERN<br>
 👯 I’m looking to collaborate on Open Source and Open Science<br>
 🤝 I’m looking for help with making a place in my crush's heart<br>
-🌱 I’m currently learning DevOps, Security and Blockchain<br>
+🌱 I’m currently hustling<br>
 💬 Ask me about CS, Life and Beyond<br>
 📫 How to reach me **manaspb2405@gmail.com**<br>
 🌐️ My Personal Website  **[manaspratimbiswas.com](https://manaspratimbiswas.com/)**<br>
