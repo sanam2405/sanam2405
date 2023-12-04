@@ -23,9 +23,8 @@
 
 </div>
 
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sanam2405&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sanam's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanam2405&theme=buefy&hide_border=true&hide=HTML,CSS,SCSS,jupyter%20notebook" /></a> |
-| ------------- | ------------- |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sanam2405&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sanam's GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanam2405&theme=buefy&hide_border=true&hide=HTML,CSS,SCSS,jupyter%20notebook" alt="Sanam's GitHub Stats" /></a> | <a href="https://leetcode.com/naxal/"><img align="center" src="https://leetcard.jacoblin.cool/naxal?theme=light&font=Happy%20Monkey&ext=heatmap" alt="Sanam's LeetCode Stats" /></a> |
+|--------------|---------------|---------------|
 
 
 <p align="center">
