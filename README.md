@@ -13,9 +13,14 @@
 🌐 My Personal Website **[_sanam.live_](https://sanam.live/)** <img src="https://raw.githubusercontent.com/sanam2405/sanam2405/main/assets/icons/sos/sos.gif" alt="sos" width="20" height="15"> <br>
 
 🔗 If you are from **[_JU_](https://jadavpuruniversity.in/)**, you are possibly here for one the below reasons <br>
-  - [JU IT Labs](https://github.com/sanam2405/JUITLabs)
-  - [JU Thesis Template](https://github.com/sanam2405/juthesis)
-  - [JU GSoC Accepted Proposals](https://manaspratimbiswas.com/JU-GSoC-Accepted-Proposals/)
+
+- [JU IT Labs](https://github.com/sanam2405/JUITLabs)
+- [JU Thesis Template](https://github.com/sanam2405/juthesis)
+- [JU GSoC Accepted Proposals](https://manaspratimbiswas.com/JU-GSoC-Accepted-Proposals/)
+
+![](https://activity-graph.herokuapp.com/graph?username=sanam2405&theme=react-dark&hide_border=true&area=true)
+
+![](https://github.com/sanam2405/sanam2405/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
 
