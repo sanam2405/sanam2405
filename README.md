@@ -18,6 +18,10 @@
 - [JU Thesis Template](https://github.com/sanam2405/juthesis)
 - [JU GSoC Accepted Proposals](https://manaspratimbiswas.com/JU-GSoC-Accepted-Proposals/)
 
+<!-- Chat and Snake -->
+
+[![](https://github.com/sanam2405/sanam2405/blob/master/chat.svg)](https://twitter.com/algo_diver)
+
 ![](https://activity-graph.herokuapp.com/graph?username=sanam2405&theme=react-dark&hide_border=true&area=true)
 
 ![](https://github.com/sanam2405/sanam2405/blob/output/github-contribution-grid-snake.svg)
