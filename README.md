@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋🏽, I'm Manas</h1>
-<h3 align="center">A Senior, majoring in Information Technology at Jadavpur University</h3>
+<h3 align="center"> currently exploring the intersection of art and technology
+
+</h3>
 
 <img align='right' src="https://raw.githubusercontent.com/sanam2405/sanam2405/main/assets/images/dp/avatar_wave.png" width="150">
 
