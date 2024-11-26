@@ -3,7 +3,7 @@
 
 </h3>
 
-<img align='right' src="https://raw.githubusercontent.com/sanam2405/sanam2405/main/assets/images/dp/avatar_wave.png" width="150">
+<img align='right' src="https://raw.githubusercontent.com/sanam2405/sanam2405/main/assets/images/dp/just_a_chill_guy.png" width="150">
 
 🚀 I’m currently working on [_PrivacyNetwork_](https://github.com/sanam2405/PrivacyNetwork) <img src="https://raw.githubusercontent.com/sanam2405/sanam2405/main/assets/icons/loading/loading.gif" alt="sos" width="15" height="15"> <br>
 🔎 I’m looking to collaborate on Open Source and Open Science<br>
